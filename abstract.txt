@@ -1,0 +1,3 @@
+Gammapy - an open source Python package for gamma-ray astronomy
+
+In this contribution we present Gammapy, a community-developed open-source Python package for $\gamma$-ray astronomy. Gammapy is built on widely-used scientific packages (Astropy, Numpy and Scipy) and provides tools to simulate and analyse high energy and, especially, very high energy data. Its purpose is to produce high level data, such as spectra, maps, light curves and even catalogues, taking as inputs lower data level such as event lists and instrument response functions. Gammapy development takes place collaboratively on Github. The versatile architecture of and steady user contribution to Gammapy enable elaborate analyses of complex datasets we are confronted with in $\gamma$-ray astronomy.
